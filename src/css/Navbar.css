@@ -1,0 +1,45 @@
+.navbar {
+  font-family: serif;
+    position: fixed;
+    height: 50px;
+    background-color: #b7afaf;
+
+  }
+  
+  .navbar-brand {
+    font-family: 'Arial', sans-serif;
+    font-size: x-large;
+    color: #fff;
+  }
+  
+  .navbar-nav {
+    margin-top: 10px;
+    font-size: large;
+  }
+  .navbar-nav .nav-link {
+    color: #fff;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #bbb;
+  }
+  
+  .sign-in-button {
+    background-color: rgb(38, 121, 56);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    cursor: pointer;
+    font-size: large;
+    
+  }
+  
+  .sign-in-button:hover {
+    background-color: darkred;
+  }
+  .nav-item .sign-in-link {
+    margin-left: 1520px;
+    
+  }
+  

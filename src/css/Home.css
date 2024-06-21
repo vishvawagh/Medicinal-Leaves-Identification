@@ -1,0 +1,54 @@
+.image-upload {
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 550px;
+    height: 300px;
+    border: 2px dashed #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    margin: 30px auto;
+    padding: 20px;
+    transition: all 0.3s ease;
+  }
+ 
+  .container{
+    font-family: serif;
+    background-color: #c7c5c5;
+    max-width: 70%;
+    max-height: 80%;
+    margin-top: 80px;
+  }
+  .image-upload:hover {
+    border-color: #333;
+    background-color: #efefef;
+  }
+  
+  .image-upload input[type="file"] {
+    display: none;
+  }
+  
+  .image-upload label {
+    font-size: 16px;
+    font-weight: bold;
+    color: #000000;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+  }
+  
+  .image-upload label:hover {
+    background-color: #ccc;
+    border-color: #333;
+  }
+  
+  .image-upload img {
+    margin-top: 20px;
+    max-width: 100%;
+    max-height: 80%;
+    border-radius: 10px;
+  }
+  
