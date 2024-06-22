@@ -1,7 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+-----
+Live Demo : 
 
+---[Screencast from 2024-06-22 19-02-33.webm](https://github.com/vishvawagh/Medicinal-Plant-Identification/assets/98593551/0fa63342-fce2-48f8-9ab3-d96cecd6bea8)
+----
 ## Available Scripts
 
 In the project directory, you can run:
